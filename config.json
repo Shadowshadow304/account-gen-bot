@@ -1,16 +1,16 @@
 {
-    "token": "DISCORD-BOT-TOKEN",
-    "guild-id": "DISCORD-SERVER-ID",
+    "token": "MTMwNDA5MDYwMDA2NDI5MDk3OA.GsrxOt.xkWcRc4CleNGrnEbsDIHBM6CsbDM-cXg4f3Bp4",
+    "guild-id": "1270721419785015356",
 
     "stock-command-silent": false,
     "remove-capture-from-stock": true,
     "commands-give-cooldown": true,
 
-    "gen-channels": [0],
+    "gen-channels": [1282286073237471336],
     "admins": [0],
     "roles": [
         {
-            "id": 0,
+            "id": 1081881275528396840,
             "cooldown": 30,
             "can-bulk-gen": true,
             "bulk-gen-max": 5,
